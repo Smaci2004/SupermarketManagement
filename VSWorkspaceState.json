@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\SupermarketManagement",
+    "\\SupermarketManagement\\Plugins.DataStore.InMemory",
+    "\\SupermarketManagement\\WebApp",
+    "\\SupermarketManagement\\WebApp\\Pages"
+  ],
+  "SelectedNode": "\\SupermarketManagement\\Plugins.DataStore.InMemory\\ProductInMemoryRepository.cs",
+  "PreviewInSolutionExplorer": false
+}
