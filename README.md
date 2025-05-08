@@ -1,4 +1,5 @@
 # SupermarketManagement
+C#,ASP.NET Core Blazor, EF Core, SQL Server, Identity
 Sistemi menaxhimit te  nje supermarketi
 ![image](https://github.com/user-attachments/assets/59f1d45c-1709-4450-b9f3-1aea7001bed3)
 ![image](https://github.com/user-attachments/assets/d99bdd8d-3643-45ac-ad0d-88e6734fa716)
